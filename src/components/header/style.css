@@ -1,0 +1,16 @@
+ul {
+    list-style: none;
+}
+
+li {
+    display: inline;
+    margin-right: 16px;
+    color: white;
+}
+
+header {
+    display: flex;
+    justify-content: flex-end;
+    background-color: purple;
+    height: 60px;
+}

@@ -1,0 +1,28 @@
+.card-container {
+    display: flex;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+
+input {
+    border: none;
+    border-bottom: 2px solid red;
+    width: 600px;
+    margin-bottom: 40px;
+  }
+
+  button:hover{
+      background-color: rgb(228, 190, 228);
+  }
+  
+  button {
+      width: 300px;
+      height: 40px;
+      border-style: none;
+  }
